@@ -1,0 +1,146 @@
+{
+	"name":"JJs",
+	"thumbnail":"jjs.png",
+	"screenshot":"jjs.png",
+    "tags": {
+    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "creative", "elegant", "professional", "unique", "media", "sans-serif"],
+    "es": ["minimalista", "limpio", "fotografico", "vintage", "moderno", "oscuro", "estudio", "website", "creativo", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
+    "br": ["minimalista", "limpo", "fotografia", "vintage", "moderno", "escuro", "estúdio", "website", "criativo", "elegante", "profissional", "único", "mídia", "sans-serif"]
+    },
+    "colorSwatches":
+    {
+        "Swatch 1": {
+            "color1":"#ffffff",
+            "color2":"#5ebddb",
+            "color3":"#5ebddb",
+            "color4":"#121212",
+            "color5":"#8c9091",
+            "color6":"#ffffff",
+            "color7":"#0d7b9e"
+        },
+        "Swatch 2": {
+            "color1":"#ffffff",
+            "color2":"#b5849d",
+            "color3":"#b5849d",
+            "color4":"#160e12",
+            "color5":"#aa728f",
+            "color6":"#ffffff",
+            "color7":"#6a4056"
+        },
+        "Swatch 3": {
+            "color1":"#ffffff",
+            "color2":"#95db5e",
+            "color3":"#95db5e",
+            "color4":"#121212",
+            "color5":"#8e918c",
+            "color6":"#ffffff",
+            "color7":"#4c9e0d"
+        },
+        "Swatch 4": {
+            "color1":"#ffffff",
+            "color2":"#be7c7a",
+            "color3":"#be7c7a",
+            "color4":"#121212",
+            "color5":"#908d8d",
+            "color6":"#ffffff",
+            "color7":"#7d302e"
+        },
+        "Swatch 5": {
+            "color1":"#ffffff",
+            "color2":"#d1ab67",
+            "color3":"#d1ab67",
+            "color4":"#121212",
+            "color5":"#918f8c",
+            "color6":"#ffffff",
+            "color7":"#936618"
+        }
+    },
+    "fontSwatch": {
+       "title": "Futura / Lato",
+        "font1": {
+            "font-family": "\"Futura\", \"Helvetica\", sans-serif",
+            "font-size": "30px",
+            "font-weight": "400",
+            "line-height": "40px",
+            "color": "@color-swatch4",
+            "letter-spacing": "1px"
+        },
+        "font2": {
+            "font-family": "\"Futura\", \"Helvetica\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "28px",
+            "color": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font3": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "600",
+            "line-height": "26px",
+            "color": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font4": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "26px",
+            "color": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font5": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font6": {
+            "font-family": "\"Futura\", \"Helvetica\", sans-serif",
+            "font-size": "14px",
+            "font-weight": "300",
+            "line-height": "24px",
+            "color": "@color-swatch6",
+            "letter-spacing": "inherit",
+            "color-hover": "darken(@color-swatch2, 30%)",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1"
+         },
+        "font7": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "14px",
+            "font-weight": "normal",
+            "line-height": "24px",
+            "color": "@color-swatch7",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch2",
+            "background-color-hover": "darken(@color-swatch7,10%)"
+        },
+        "font8": {
+            "font-family": "\"Futura\", \"Helvetica\", sans-serif",
+            "font-size": "42px",
+            "font-weight": "500",
+            "line-height": "52px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font9": {
+            "font-family": "\"Futura\", \"Helvetica\", sans-serif",
+            "font-size": "22px",
+            "font-weight": "500",
+            "line-height": "32px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font10": {
+            "font-family": "\"Futura\", \"Helvetica\", sans-serif",
+            "font-size": "42px",
+            "font-weight": "400",
+            "line-height": "52px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        }
+    }
+}
