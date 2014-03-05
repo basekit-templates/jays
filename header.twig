@@ -1,11 +1,23 @@
 <header class="template-header">
 	<div class="header-feature">
-		{{widget('feature', 'parallax', {"header": "profile", "strapline":"profile", "buttonText":"", 'positionTopPercentage': '75','showBtn': true})|raw}}	
+		{{widget('feature', 'featurehome', {"header": "profile", "strapline":"profile", "buttonText":"", 'positionTopPercentage': '75','showBtn': true})|raw}}	
+	</div>
+	<div class="header-sub">
+
+		<aside class="template-aside left">
+			<h2>{{widget('profile', 'lefttopwidget', { 'profileType': 'address' })|raw}}</h2>
+		</aside>
+
+		{{widget('logo', 'logo', {"defaultlogo": asset('images/logo.png')})|raw}}
+
+		<aside class="template-aside right">
+			<h2>{{widget('content', 'righttopwidget', {content: 'Lorem Ipsum', lines: 'one'})|raw}}</h2>
+		</aside>
+
 	</div>
 </header>
 
 <div class="main-wrap">
-	{{widget('logo', 'logo', {"defaultlogo": asset('images/logo.png')})|raw}}
 	<nav class="template-nav">
 		{{widget('extendednavigation', 'navigationheader', {})|raw}}
 	</nav>
