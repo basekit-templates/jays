@@ -224,9 +224,6 @@ hr.line {
 	color: @color-swatch1;
 	overflow: hidden;
 	position: relative;
-	h1, h2 {
-		color: @color-swatch1;
-	}
 	.widget.companyname a {
 		color: @color-swatch1;
 	}
@@ -425,10 +422,11 @@ hr.line {
 
 .menu-item-price {
 	p {
+		font-family:@font-swatch6-font-family;
+		font-size: bkscale(@font-swatch6-font-size, 0.9);
 		color: darken(@color-swatch5, 30%);
-		font-family:@font-swatch3-font-family;
-		font-weight:@font-swatch3-font-weight;
-		letter-spacing:@font-swatch3-letter-spacing;
+		font-weight:@font-swatch6-font-weight;
+		letter-spacing:@font-swatch6-letter-spacing;
 	}
 }
 
