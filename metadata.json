@@ -2,13 +2,21 @@
 	"name":"Jays",
 	"thumbnail":"jays.png",
 	"screenshot":"jays.png",
-    "tags": {
-    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "creative", "elegant", "professional", "unique", "media", "sans-serif"],
-    "es": ["minimalista", "limpio", "fotografico", "vintage", "moderno", "oscuro", "estudio", "website", "creativo", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
-    "br": ["minimalista", "limpo", "fotografia", "vintage", "moderno", "escuro", "estúdio", "website", "criativo", "elegante", "profissional", "único", "mídia", "sans-serif"]
-    },
-    "colorSwatches":
-    {
+	"pageTypes": [
+		"About",
+		"Blog List Posts",
+		"Blog Post",
+		"Contact",
+		"Gallery",
+		"Home",
+		"Menu"
+	],
+	"tags": {
+	    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "creative", "elegant", "professional", "unique", "media", "sans-serif"],
+	    "es": ["minimalista", "limpio", "fotografico", "vintage", "moderno", "oscuro", "estudio", "website", "creativo", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
+	    "br": ["minimalista", "limpo", "fotografia", "vintage", "moderno", "escuro", "estúdio", "website", "criativo", "elegante", "profissional", "único", "mídia", "sans-serif"]
+	},
+	"colorSwatches": {
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#659655",
