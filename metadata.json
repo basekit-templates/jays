@@ -3,13 +3,13 @@
 	"thumbnail":"jays.png",
 	"screenshot":"jays.png",
 	"pageTypes": [
-		"About",
-		"Blog List Posts",
-		"Blog Post",
-		"Contact",
-		"Gallery",
-		"Home",
-		"Menu"
+		"about",
+		"bloglistposts",
+		"blogpost",
+		"contact",
+		"gallery",
+		"home",
+		"menu"
 	],
 	"tags": {
 	    "en": ["minimal", "clean", "photography", "vintage", "modern", "dark", "studio", "website", "creative", "elegant", "professional", "unique", "media", "sans-serif"],
